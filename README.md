@@ -7,7 +7,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/zeron-team/zrn_bi_saas_frontend.git
-git push -u origin main
+git push -u origin master
 
 
 # Getting Started with Create React App
